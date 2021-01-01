@@ -1,7 +1,13 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Inter');
 
-$family-sans-serif: 'Montserrat', sans-serif;
+////originsl $family-sans-serif: 'Montserrat', sans-serif;
+//$family-sans-serif: 'Inter', sans-serif;
+//$family-sans-serif: 'Roboto', sans-serif;
+$family-sans-serif: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+$family-monospace: 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+
+
 $primary: #46357b !default;
 
 $tabs-link-active-color: $primary;
