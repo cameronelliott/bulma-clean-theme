@@ -8,7 +8,9 @@ $family-sans-serif: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvet
 $family-monospace: 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace;
 
 
-$primary: #46357b !default;
+//$primary: #46357b !default; //purple
+$primary: #3298dc !default; //blue
+
 
 $tabs-link-active-color: $primary;
 $tabs-link-active-border-bottom-color: $primary;
